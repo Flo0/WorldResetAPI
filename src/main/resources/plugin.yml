@@ -1,0 +1,6 @@
+name: WorldResetAPI
+version: ${project.version}
+main: com.gestankbratwurst.worldresetapi.WorldResetAPI
+api-version: 1.16
+authors: [Gestankbratwurst]
+description: Reset API für Welten
